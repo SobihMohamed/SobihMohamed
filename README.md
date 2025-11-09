@@ -97,9 +97,6 @@
 ![Microservices](https://img.shields.io/badge/Microservices-%2300599C.svg?style=for-the-badge&logo=network&logoColor=white)&nbsp;
 ![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=for-the-badge&logo=blueprint&logoColor=white)&nbsp;
 
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
