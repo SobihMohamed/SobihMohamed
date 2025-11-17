@@ -10,8 +10,9 @@
  &nbsp;🌱 I’m currently learning more about API development, system design, and microservices.\
  &nbsp;🎨 I also have a good sense of UI/UX and enjoy designing clean and modern interfaces.\
  &nbsp;💬 Feel free to reach out to me for collaboration, freelancing, or any interesting discussion.\
-✉️ You can contact me at sobihmohamedsobih@gmail.com
- — I’ll try to respond as soon as I can.
+✉️ You can contact me at **sobihmohamedsobih@gmail.com**\
+📄 **My CV:** [Click here to view my CV](https://docs.google.com/document/d/1-0lOD2VpWfbht-_jdvi57PybNf5JeGJ3/edit?usp=sharing&ouid=111389047814389243812&rtpof=true&sd=true)
+
  
 
 
