@@ -11,7 +11,7 @@
  &nbsp;🎨 I also have a good sense of UI/UX and enjoy designing clean and modern interfaces.\
  &nbsp;💬 Feel free to reach out to me for collaboration, freelancing, or any interesting discussion.\
 ✉️ You can contact me at **sobihmohamedsobih@gmail.com**\
-📄 **My CV:** [Click here to view my CV](https://docs.google.com/document/d/1-0lOD2VpWfbht-_jdvi57PybNf5JeGJ3/edit?usp=sharing&ouid=111389047814389243812&rtpof=true&sd=true)
+📄 **My CV:** [Click here to view my CV]([https://docs.google.com/document/d/1-0lOD2VpWfbht-_jdvi57PybNf5JeGJ3/edit?usp=sharing&ouid=111389047814389243812&rtpof=true&sd=true](https://docs.google.com/document/d/1Cin6R2tcedHSJJ86_MkNjwUatQbooCKk/edit?usp=drive_link&ouid=111389047814389243812&rtpof=true&sd=true))
 
  
 
